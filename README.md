@@ -36,7 +36,7 @@ The **GitHub Profile Finder** is a sleek and user-friendly web application that 
 ![git1](https://github.com/user-attachments/assets/7378fb2c-1aa1-4c06-aaaf-0a456fe7d513)
 
 ### 📌 Display User Information
-![User Profile Display](https://via.placeholder.com/800x400?text=User+Profile+Display)
+![git2](https://github.com/user-attachments/assets/d691ff8a-7ccc-43b6-b403-860fb1ccd1c8)
 
 ### 🗂️ Display Public Repositories
 ![Repositories Display](https://via.placeholder.com/800x400?text=Repositories+Display)
