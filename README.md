@@ -33,7 +33,7 @@ The **GitHub Profile Finder** is a sleek and user-friendly web application that 
 
 ## 📸 Screenshots
 ### 🔍 Search for a GitHub User
-![Search GitHub User](https://via.placeholder.com/800x400?text=Search+GitHub+User)
+![git1](https://github.com/user-attachments/assets/7378fb2c-1aa1-4c06-aaaf-0a456fe7d513)
 
 ### 📌 Display User Information
 ![User Profile Display](https://via.placeholder.com/800x400?text=User+Profile+Display)
