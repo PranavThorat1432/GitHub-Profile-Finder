@@ -19,7 +19,7 @@ The **GitHub Profile Finder** is a sleek and user-friendly web application that 
 ---
 
 ## 🎥 Demo
-🔗 [Live Preview](#) *(Replace # with your live project URL)*
+🔗 [Live Preview](https://github-profile-finder-red.vercel.app/)
 
 ---
 
